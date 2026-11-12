@@ -1,0 +1,6 @@
+# Arquivos que o Git deve ignorar
+__pycache__/
+*.pyc
+*.mwb.bak
+.vscode/
+*.zip
